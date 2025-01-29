@@ -3,6 +3,9 @@
 This is a "Write Data Science Blog Post" project.
 This project is part of the Udacity nanodegree program.
 
+Prepared by: Badar AL-Mahrrouqi.
+
+
 ## Business Case Subject:
 Exploring the Car Rental Industry.
 
