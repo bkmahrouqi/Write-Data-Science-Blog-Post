@@ -28,3 +28,10 @@ I will build my analysis based on the  Cross-Industry Standard Process for Data 
 -	Evaluation
 -	Deployment/communication
 
+## Dataset Used:
+Below is the link of the used dataset:
+https://www.kaggle.com/datasets/kushleshkumar/cornell-car-rental-dataset
+
+## Python Environment:
+I used my local laptop to work in this project where Python 3.11 is installed.
+
