@@ -35,3 +35,12 @@ https://www.kaggle.com/datasets/kushleshkumar/cornell-car-rental-dataset
 ## Python Environment:
 I used my local laptop to work in this project where Python 3.11 is installed.
 
+## Notebook File:
+Notebook File that includes all the used code and results.
+https://github.com/bkmahrouqi/Write-Data-Science-Blog-Post/blob/main/Data_Blog_Post_Badar.ipynb
+
+## Analysis Results Report:
+Below is the analysis report.
+https://github.com/bkmahrouqi/Write-Data-Science-Blog-Post/blob/main/Blog_Post_Project_Results.pdf
+
+
